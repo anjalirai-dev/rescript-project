@@ -27,7 +27,9 @@
     "rescript-request",
     "rescript-asyncdata",
     "@ryyppy/rescript-promise",
-    "rescript-js"
+    "rescript-js",
+    "bs-css",
+    "bs-css-emotion"
   ],
   "bs-dev-dependencies": ["rescript-test"],
   "bsc-flags": ["-open Belt", "-open ReScriptJs__Js"]
